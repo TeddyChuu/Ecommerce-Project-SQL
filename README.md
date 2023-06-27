@@ -3,7 +3,7 @@
 
 The dataset I worked with involved tracking the business operations of an eCommerce company, including product views, purchases, revenue, and more. The goal was to utilize SQL to measure the company's performance and answer management's specific questions about its operations
 
-(console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1sbigquery-public-data!2sgoogle_analytics_sample!3sga_sessions_20170801)
+console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1sbigquery-public-data!2sgoogle_analytics_sample!3sga_sessions_20170801
 
 ## Problem
 
